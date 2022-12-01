@@ -5,7 +5,7 @@ public class House {
     public int numberOfFloors;
 
 
-    public House(String address,int numberOfFloors) {
+    public House() {
         System.out.println("we are creating the house");
     }
 
